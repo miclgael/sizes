@@ -1,6 +1,6 @@
 # sizes
 
-These are the t-shirt size options for merch available at whalebones.bandcamp.com and iamtheagent.bandcamp.com. 
+These are the t-shirt size options for merch available at [whalebones.bandcamp.com](https://whalebones.bandcamp.com) and [iamtheagent.bandcamp.com](https://iamtheagent.bandcamp.com). 
 
 ## Long Sleeve Tee
 
