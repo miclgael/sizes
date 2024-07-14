@@ -1,5 +1,7 @@
 # sizes
 
+These are the t-shirt size options for merch available at whalebones.bandcamp.com and iamtheagent.bandcamp.com. 
+
 ## Long Sleeve Tee
 
 - 100% combed, ring-spun cotton
